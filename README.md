@@ -8,7 +8,7 @@ CCPROG2_Vaccination-Registration
 
 **About**:  
 -This is a C program	 that	 facilitates	 the	 registration,	 schedule	 vaccination		
-appointments,	answer	frequently	asked questions	and	manage	app	data.
+appointments,	answer	frequently	asked questions	and	manage	app	data.\n
 -Futhur instruction is indicated in the "Vaccination	Registration	with	Chatbot	App" pdf file.
 
 **To run**:
